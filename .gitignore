@@ -2,3 +2,4 @@ venv
 ~/.mage_data
 uber_data_analytics
 image
+.vscode
