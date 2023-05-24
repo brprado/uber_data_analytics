@@ -3,3 +3,4 @@ venv
 uber_data_analytics
 image
 .vscode
+bigquery-auth
