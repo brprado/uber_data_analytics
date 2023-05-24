@@ -14,6 +14,12 @@
 
 <img src="https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/architecture.jpg?raw=true" alt="Mage logo" title="Title" width="700">
 
+# Run the pipeline on GCP
+
+```
+mage start uber-etl
+```
+
 # Data Model
 
 <img src="https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data_model.jpeg?raw=true" alt="Mage logo" title="Title" width="700">
