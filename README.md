@@ -17,7 +17,7 @@
 # Run this command on the console of your GCP VM (ssh)
 
 ```
-mage start uber-etl
+mage start <your-project-name>
 ```
 
 # Data Model
