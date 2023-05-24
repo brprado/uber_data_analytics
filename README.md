@@ -14,7 +14,7 @@
 
 <img src="https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/architecture.jpg?raw=true" alt="Mage logo" title="Title" width="700">
 
-# Run the pipeline on GCP
+# Run this command on the console of your GCP VM (ssh)
 
 ```
 mage start uber-etl
