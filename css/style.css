@@ -1,0 +1,13 @@
+body {
+    background-color: #000;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+}
+
+#iframe {
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    display: block;
+}
